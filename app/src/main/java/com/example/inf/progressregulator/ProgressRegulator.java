@@ -92,6 +92,7 @@ public class ProgressRegulator extends View {
         lightTextSize = getWidth()/15;
         darkTextSize = getWidth()/5;
         /**
+         *
          * 画最外层的大圆环
         */
         int centre = getWidth()/2; //获取圆心的x坐标
